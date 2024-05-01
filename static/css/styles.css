@@ -26,16 +26,11 @@ body {
     align-items: center;
 }
 
-.img-box {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    overflow: hidden;
+.img {
+    width:110px;
+    height:110px;
 }
 
-.img {
-    width: 100%;
-}
 
 .google-btn {
     display: flex;
@@ -55,8 +50,8 @@ body {
     background: url("https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg") transparent 5px 50% no-repeat;
     display: inline-block;
     vertical-align: middle;
-    width: 35px;
-    height: 50px;
+    width:20px;
+    height:20px;
 }
 
 .btn-text {
